@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Rahul
 
-🔭 I’m currently working on App Development, Backend Web Development and Competitive Programming
+🔭 I’m currently working on App Development, Backend Web Development and Competitive Programming  
+
 🌱 I’m currently learning Python, Java, C++, JavaScript, Django and PHP
 
 ### 📫 How to reach me:
