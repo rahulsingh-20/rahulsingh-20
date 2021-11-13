@@ -6,7 +6,7 @@
 
 ### 📫 How to reach me:
 
-[![instagram][https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png]][https://www.instagram.com/rahul_sudo/]
+[![instagram](https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png)](https://www.instagram.com/rahul_sudo/)
 
 <!--
 **rahulsingh-20/rahulsingh-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
