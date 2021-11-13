@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Rahul
+## Hi there 👋, I'm Rahul
 
 🔭 I’m currently working on App Development, Backend Web Development and Competitive Programming  
 
 🌱 I’m currently learning Python, Java, C++, JavaScript, Django and PHP
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 
 [![instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/rahul_sudo/)
 [![facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://www.facebook.com/profile.php?id=100056575987844)
