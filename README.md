@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Full Stack Web Development.
 
-🌱 I’m currently learning the MERN stack (MongoDB, Express, React.js, Node.js).
+🌱 I’m currently learning Natural Language Processing and the MERN stack (MongoDB, Express, React.js, Node.js).
 
 ♟️ Always learning a new chess opening in my free time.
 
