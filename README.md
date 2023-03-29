@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning the MERN stack (MongoDB, Express, React.js, Node.js).
 
+[![Always learning a new chess opening in my free time.](https://icons8.com/icon/C5LTcmsc3cr0/chess-com)]
+
 ## 📫 How to reach me:
 
 <!--[![instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/rxhxlsxngh/)
